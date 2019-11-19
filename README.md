@@ -9,4 +9,6 @@ The aim of this part of the "BR Skin Cancer Project" is to generate such a model
 
 The "BR Skin Cancer Project" is just a demonstration of the possibilities. The model and the app will not be suitable for real evaluations of skin changes.
 
+The project and reports are written in german.
+
 Translated with www.DeepL.com/Translator
